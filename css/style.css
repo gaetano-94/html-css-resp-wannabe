@@ -146,6 +146,7 @@ img {
 @media screen and (max-width: 480px) {
   .row {
     flex-wrap: wrap;
+    gap: 4rem;
   }
 
   .lessons .col {
